@@ -118,15 +118,7 @@ span
     color: black;
     border: 2px solid black;
 }
-.img-box img{
-    border-radius: 20%;
-    width: 600px;
-    padding-top: 20%;
-    padding-right: 10%;
-    padding-left: 20%;
-    width: 450px;
-    max-width: 500px;
-}
+
 .para
 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
